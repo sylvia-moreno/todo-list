@@ -1,0 +1,12 @@
+@import "../node_modules/bulma/bulma.sass";
+.icon {
+    position: relative; 
+}
+.icon .fas .fa-check, .icon .fas .fa-times {
+        display: block !important;
+        position: absolute;
+        right: -185px;
+        top: 31px;
+    }
+
+
